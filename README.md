@@ -6,7 +6,6 @@ I started at Bosch in 2021 as an IT intern, moved through IT support and now wor
 
 ### 💼 What I do
 - 💬 Build chatbots and virtual agents with Cognigy
-- 📊 Create Power BI dashboards from chatbot conversation data, collected through APIs
 
 ### 🚀 What I'm learning
 - Web development with Next.js and Supabase
