@@ -36,7 +36,6 @@ Entrei na Bosch em 2021 como estagiário de TI, passei pelo suporte de TI e hoje
 
 ### 💼 O que eu faço
 - 💬 Desenvolvo chatbots e agentes virtuais com Cognigy
-- 📊 Crio dashboards em Power BI com dados das conversas dos chatbots, coletados por API
 
 ### 🚀 O que estou aprendendo
 - Desenvolvimento web com Next.js e Supabase
